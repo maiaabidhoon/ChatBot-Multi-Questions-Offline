@@ -64,17 +64,18 @@ Interact with the chatbot by entering multiple questions in the interface.
 
 Project Structure
 ChatBot-Multi-Questions-Offline/
-├── backend/              # Backend code for LLM and API
-│   ├── server.js         # Main backend application
-│   └── package.json      # Backend dependencies
-├── frontend/             # React frontend code
-│   ├── src/              # React components, hooks, and logic
-│   ├── public/           # Public assets (e.g., index.html, favicon)
-│   └── package.json      # Frontend dependencies
-├── README.md             # Project documentation
+  - backend/              # Backend code for LLM and API
+      - server.js         # Main backend application
+      - package.json      # Backend dependencies
+  - frontend/             # React frontend code
+      - src/              # React components, hooks, and logic
+      - public/           # Public assets (e.g., index.html, favicon)
+      - package.json      # Frontend dependencies
+  - README.md             # Project documentation
 
 Contributing
 Contributions are welcome! To contribute:
+Khushi Chahan[https://github.com/KhushiChauhan8]
 
 Fork the repository.
 Create a new branch (git checkout -b feature-branch).
