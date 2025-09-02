@@ -75,7 +75,6 @@ ChatBot-Multi-Questions-Offline/
 
 Contributing
 Contributions are welcome! To contribute:
-Khushi Chahan[https://github.com/KhushiChauhan8]
 
 Fork the repository.
 Create a new branch (git checkout -b feature-branch).
