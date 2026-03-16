@@ -78,6 +78,7 @@ function App() {
                 >-</button>
               </div>
             ))}
+            // add questions button
             <button
               type="button"
               onClick={handleAddQuestion}
